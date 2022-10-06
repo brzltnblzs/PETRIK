@@ -5,3 +5,7 @@ body {
 #menu {
     list-style-type: none;
 }
+#folyok {
+    list-style-image: url("list_imagie.png");
+    list-style-type: disc;
+}
