@@ -11,5 +11,4 @@
     <img width="300px" href="https://github.com/brzltnblzs/PETRIK" src="https://petrik.hu/wp-content/uploads/2020/08/logo-nagy.png"
     align="center" alt="petriklogo"/>
 </p>
-
 </font>
