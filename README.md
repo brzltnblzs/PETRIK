@@ -2,8 +2,7 @@
 <div align="center">
     <h2 align="center">BZB Petrik Repository
 </h2>
-    <p align="center">Ebben a repoban található az összes Petrik-es feladat amit órán csináltunk.</p>
-    <br/>
+    <p align="center">Ebben a repoban vannak a Petrik-es feladatok, amiket órán csináltunk.</p>
 </div>
 
 <p align="center">
