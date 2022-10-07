@@ -9,6 +9,14 @@ ul {
     overflow: hidden;
     background-color: #333;
 }
+
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
   
 li a {
     display: block;
