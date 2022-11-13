@@ -1,0 +1,16 @@
+form :required{
+    background-color: #FFFFCC;
+}
+
+form input:invalid{
+    background-color: #FFFFCC;
+    color: red;
+}
+
+fieldset{
+    background-color: gainsboro;
+}
+
+legend p{
+    font-style: italic;
+}
